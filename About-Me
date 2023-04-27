@@ -6,6 +6,8 @@
 
     <body>
         <h2>Meet - Ifeoma Okafor</h2>
+        <p><a href="#personal">Personal</a> <a href="#eduactional">Educational</a> <a href="#professional">Professional</a> <a href="#fun-facts">Fun Facts</a> <a href="#media">Media</a> </p>
+        
         <h4>Meet: Ifeoma Okafor</h4>
         <h4>Located: London, United Kindom</h4>
         <h4>Enthusiastic about solving problems using a combination of my creative background and tech skills. I hope to inspire the next generation of software engineers through my unique journey.</h4>
