@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Ifeoma Okafor</title>
+    </head>
+
+    <body>
+        <h2>Meet - Ifeoma Okafor</h2>
+        <h4>Meet: Ifeoma Okafor</h4>
+        <h4>Located: London, United Kindom</h4>
+        <h4>Enthusiastic about solving problems using a combination of my creative background and tech skills. I hope to inspire the next generation of software engineers through my unique journey.</h4>
+
+        <h4>Personal</h4>
+        <ul>
+            <li>Fourth child out of six in a family of eight</li>
+        </ul>
+
+        <h4>Educational</h4>
+        <ul>
+            <li>Current MSc in <strong>Software Engineering</strong> from the University of Westminster(proficient in C#, Python, Bash, Swift and SwiftUI</li>
+            <li>BA in Creative Arts from the University of Lagos (<strong>CGPA - 4.09/5</strong>)</li>
+        </ul>
+
+        <h4>Professional</h4>
+        <ul>
+            <li>I am the Co-Founder of CeCe Lagos, a womenswear fashion brand, where I was heavily involved in the technical, creative and business aspect of the business such as the day-to-day operations of the business, production and supply chain management, and ensured efficient delivery of products to customers. </li>
+            <li>After some time in fashion I decided to switch to software engineering where I have worked on projects such as a hotel management system for customers and administrators, worked in a team as lead developer to create a console app for a vending machine</li>
+            <li>I completed the Code First Girls’ Web Development course</li>
+        </ul>
+
+        <h4>Fun Facts</h4>
+        <ul>
+            <li>I am incredibly good at most sport and have a record of over 30 medals from track and basketball competitions</li>
+            <li>In my free time I model and I am currently represented in Italy and Nigeria</li>
+            <li>I featured in Vogue twice. Once as a model, and as one of the best dressed in my fashion brand alongside my sister</li>
+        </ul>
+
+
+    </body>
+
+
+</html>
